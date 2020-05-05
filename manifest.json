@@ -1,10 +1,10 @@
 {
   "name": "tharabic.com",
   "short_name": "Tharabic",
-  "start_url": "https://www.tharabic.com/",
+  "start_url": "https://www.tharabic.com",
   "display": "standalone",
-  "background_color": "#fff",
-  "theme_color": "#01579b",
+  "background_color": "#f5f5f5",
+  "theme_color": "#1f2532",
   "description": "مدونة تقدم كل ما هو جديد في البرامج و التطبيقات, دروس في سيو, قوالب و اضافات بلوجر",
   "icons": [{
     "src": "https://4.bp.blogspot.com/-B7DFFQX0a5Q/XhygFZ-g8qI/AAAAAAAAI34/0WItvoskXg0xPy-RE1YrVPz5daiuzDqqACK4BGAYYCw/s48/tharabic-icon.png",
